@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Əsas səhifəyə keçin"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yuxarı keçin"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Digər seçimlər"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hazırdır"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Hamısına baxın"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Tətbiq seçin"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEAKTİV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTİV"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"silin"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"daxil olun"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funksiya+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menyu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Axtarış..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sorğunu silin"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Axtarış sorğusu"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Axtarın"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Sorğunu göndərin"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Səsli axtarış"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Paylaşın"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ilə paylaşın"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Yığcamlaşdırın"</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Cavab verin"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"İmtina edin"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Dəstəyi asın"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Gələn zəng"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Davam edən zəng"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Gələn zəng göstərilir"</string>
+    <string gender="unknown" name="combobox_description">Kombo siyahısı</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktiv edin</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv edin</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Quraşdırın</string>
+    <string name="common_google_play_services_install_text">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play xidmətlərini əldə edin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatanlığı</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Güncəlləyin</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="common_google_play_services_updating_text">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_signin_button_text">Daxil olun</string>
+    <string name="common_signin_button_text_long">Google ilə daxil olun</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link buferə kopyalandı"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Linki kopyalayın"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Brauzerdə açın"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Linki paylaşın"</string>
+    <string gender="unknown" name="image_description">Şəkil</string>
+    <string gender="unknown" name="imagebutton_description">Düymə, şəkil</string>
+    <string gender="unknown" name="link_description">Keçid</string>
+    <string gender="unknown" name="menu_description">Menyu</string>
+    <string name="native_body">Əsas</string>
+    <string name="native_headline">Başlıq</string>
+    <string name="native_media_view">Media Paneli</string>
+    <string name="notifications_permission_confirm">İcazə verin</string>
+    <string name="notifications_permission_decline">İcazə verməyin</string>
+    <string name="notifications_permission_title">Tətbiqə sizə bildirişlər göndərmək icazəsi verilsin?</string>
+    <string name="offline_dialog_image_description">İkona</string>
+    <string name="offline_dialog_text">Maraqlandığınız üçün təşəkkürlər.\nYenidən onlayn olduqda ətraflı məlumat verəcəyik.</string>
+    <string name="offline_notification_title">Yenidən onlaynsınız! Qaldığınız yerdən davam edək</string>
+    <string name="offline_notification_title_with_advertiser">Yenidən onlaynsınız! %s haqqında məlumat almağa davam edin</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">Xeyr, təşəkkür</string>
+    <string name="offline_opt_in_message">Sizə reklamçının saytına keçid olan bildiriş göndərəcəyik.</string>
+    <string name="offline_opt_in_title">Yenidən onlayn olduqda reklamı açın.</string>
+    <string name="s1">Şəkli yadda saxlayın</string>
+    <string name="s2">Reklama təsvirləri Şəkil qalereyasında saxlamağa icazə verilsin?</string>
+    <string name="s3">Qəbul edin</string>
+    <string name="s4">Rədd edin</string>
+    <string name="s5">Təqvim tədbiri yaradın</string>
+    <string name="s6">Təqvim tədbiri yaratmaq üçün Reklama icazə verilsin?</string>
+    <string name="s7">Test Reklamı</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Axtarın"</string>
+    <string gender="unknown" name="state_off_description">deaktiv</string>
+    <string gender="unknown" name="state_on_description">aktivdir</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="watermark_label_prefix">AdMob - </string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.locationalert.app-mergeDebugResources-2:/values-tg/values-tg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mules\\.gradle\\caches\\transforms-3\\06d896b5d869bb90a68e30040a6f0ca0\\transformed\\jetified-react-android-0.73.1-debug\\res\\values-tg\\values-tg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,138,208,291,361,434",
+                        "endColumns": "82,69,82,69,72,71",
+                        "endOffsets": "133,203,286,356,429,501"
+                    }
+                }
+            ]
+        }
+    ]
+}
