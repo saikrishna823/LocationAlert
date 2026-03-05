@@ -71,9 +71,8 @@
     <string name="notifications_permission_decline">Nicht zulassen</string>
     <string name="notifications_permission_title">App-Benachrichtigungen zulassen?</string>
     <string name="offline_dialog_image_description">Symbol</string>
-    <string name="offline_dialog_text">Vielen Dank für dein Interesse.\nDu erhältst weitere Informationen, sobald du wieder online bist.</string>
-    <string name="offline_notification_title">Du bist wieder online! Machen wir da weiter, wo wir aufgehört haben</string>
-    <string name="offline_notification_title_with_advertiser">Du bist wieder online! Weitere Informationen zu %s</string>
+    <string name="offline_dialog_text">Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
+    <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
     <string name="offline_opt_in_confirm">OK</string>
     <string name="offline_opt_in_decline">Nein danke</string>
     <string name="offline_opt_in_message">Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden.</string>

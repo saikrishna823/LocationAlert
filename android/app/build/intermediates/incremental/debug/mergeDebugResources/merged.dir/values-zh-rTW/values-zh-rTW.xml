@@ -74,9 +74,8 @@
     <string name="notifications_permission_decline">不允許</string>
     <string name="notifications_permission_title">允許應用程式傳送通知給你嗎？</string>
     <string name="offline_dialog_image_description">圖示</string>
-    <string name="offline_dialog_text">感謝你的支持。\n我們會在你重新連上網路後提供更多資訊。</string>
-    <string name="offline_notification_title">你已重新連上網路！讓我們從上次中斷的地方繼續</string>
-    <string name="offline_notification_title_with_advertiser">你已重新連上網路！請繼續瞭解「%s」的相關資訊</string>
+    <string name="offline_dialog_text">重新連上網路後，你會收到含有該連結的通知</string>
+    <string name="offline_notification_title">查看你在離線時儲存的廣告</string>
     <string name="offline_opt_in_confirm">確定</string>
     <string name="offline_opt_in_decline">不用了，謝謝</string>
     <string name="offline_opt_in_message">我們會傳送含有廣告主網站連結的通知給你。</string>

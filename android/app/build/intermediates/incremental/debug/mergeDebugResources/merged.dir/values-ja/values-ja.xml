@@ -74,9 +74,8 @@
     <string name="notifications_permission_decline">許可しない</string>
     <string name="notifications_permission_title">通知の送信をアプリに許可しますか？</string>
     <string name="offline_dialog_image_description">アイコン</string>
-    <string name="offline_dialog_text">関心をお寄せいただきありがとうございます。\n再度オンラインになりましたら、追加情報をご案内します。</string>
-    <string name="offline_notification_title">オンラインになりました: 続きをご覧ください</string>
-    <string name="offline_notification_title_with_advertiser">オンラインになりました: %sについて続きをご確認ください</string>
+    <string name="offline_dialog_text">ネットワークに接続したときに、リンクが記載された通知が届きます</string>
+    <string name="offline_notification_title">オフライン時に保存した広告を表示します</string>
     <string name="offline_opt_in_confirm">OK</string>
     <string name="offline_opt_in_decline">設定しない</string>
     <string name="offline_opt_in_message">広告主のサイトへのリンクが記載された通知が届きます。</string>

@@ -74,9 +74,8 @@
     <string name="notifications_permission_decline">Запретить</string>
     <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
     <string name="offline_dialog_image_description">Значок</string>
-    <string name="offline_dialog_text">Благодарим за интерес к объявлению.\nМы отправим вам больше информации, как только вы снова подключитесь к интернету.</string>
-    <string name="offline_notification_title">Вы подключились к интернету. Давайте продолжим с того момента, на котором остановились</string>
-    <string name="offline_notification_title_with_advertiser">Вы подключились к интернету. Узнайте больше о рекламодателе (%s)</string>
+    <string name="offline_dialog_text">Вы получите уведомление со ссылкой, когда появится подключение к интернету.</string>
+    <string name="offline_notification_title">Вы хотели посмотреть объявление, когда были офлайн</string>
     <string name="offline_opt_in_confirm">ОК</string>
     <string name="offline_opt_in_decline">Нет, спасибо</string>
     <string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>

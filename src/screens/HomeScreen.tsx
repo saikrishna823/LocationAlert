@@ -9,8 +9,8 @@ import {
   ScrollView,
   StatusBar,
 } from 'react-native';
-import AdMobScreen from '../screens/AdMobScreen';
-import { BannerAdSize, TestIds } from 'react-native-google-mobile-ads';
+//import AdMobScreen from '../screens/AdMobScreen';
+//import { BannerAdSize, TestIds } from 'react-native-google-mobile-ads';
 import { getCurrentLocation } from '../services/locationService';
 import { Coordinates } from '../types/location';
 import {
@@ -368,12 +368,12 @@ const HomeScreen: React.FC = () => {
                 Works in background - safe to lock your phone
               </Text>
             </View>
-<View style={{ marginTop: 20 }}>
+{/* <View style={{ marginTop: 20 }}>
   <AdMobScreen
     unitId={TestIds.BANNER}
     size={BannerAdSize.FULL_BANNER}
   />
-</View>
+</View> */}
 
           </View>
         </ScrollView>

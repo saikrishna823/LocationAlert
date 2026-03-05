@@ -67,9 +67,8 @@
     <string name="notifications_permission_decline">Тыюу салуу</string>
     <string name="notifications_permission_title">Колдонмого билдирмелерди жөнөтүүгө уруксат бересизби?</string>
     <string name="offline_dialog_image_description">Сүрөтчө</string>
-    <string name="offline_dialog_text">Кызыкканыңыз үчүн рахмат.\nИнтернетке кайра туташканыңыздан кийин дагы көп бөлүшөбүз.</string>
-    <string name="offline_notification_title">Интернетке кайра туташтыңыз! Келгиле, токтогон жерден уланталы</string>
-    <string name="offline_notification_title_with_advertiser">Интернетке кайра туташтыңыз! Жарнамачы %s жөнүндө маалымат алууну улантыңыз</string>
+    <string name="offline_dialog_text">Интернетке кайра туташканда шилтеме камтылган билдирме аласыз</string>
+    <string name="offline_notification_title">Оффлайн режиминде сактаган жарнамаңызды көрүңүз</string>
     <string name="offline_opt_in_confirm">ЖАРАЙТ</string>
     <string name="offline_opt_in_decline">Жок, рахмат</string>
     <string name="offline_opt_in_message">Сизге жарнамачынын сайтына шилтеме камтылган билдирме жөнөтөбүз.</string>

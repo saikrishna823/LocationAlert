@@ -70,7 +70,9 @@ def enableProguardInReleaseBuilds = false
 def jscFlavor = 'org.webkit:android-jsc:+'
 def keystorePropertiesFile = rootProject.file("locationalert.keystore")
 def keystoreProperties = new Properties()
-keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
 
 android {
     ndkVersion rootProject.ext.ndkVersion
@@ -116,6 +118,7 @@ dependencies {
     implementation("com.facebook.react:react-android")
     implementation("com.facebook.react:flipper-integration")
     implementation("androidx.core:core-ktx:1.12.0")
+    implementation("com.google.android.gms:play-services-ads:23.0.0")  // ✅ Stable version
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")

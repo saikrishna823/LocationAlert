@@ -1,5 +1,5 @@
 {
-  "name": "LocationAlertApp",
+  "name": "LocationAlert",
   "displayName": "Location Alert",
   "react-native-google-mobile-ads": {
     "android_app_id": "ca-app-pub-3940256099942544~3347511713"

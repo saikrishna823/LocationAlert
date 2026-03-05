@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import {
   BannerAd,
@@ -34,4 +34,4 @@ const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
   },
-});
+});*/

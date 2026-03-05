@@ -1159,7 +1159,6 @@ string notifications_permission_title
 string offline_dialog_image_description
 string offline_dialog_text
 string offline_notification_title
-string offline_notification_title_with_advertiser
 string offline_opt_in_confirm
 string offline_opt_in_decline
 string offline_opt_in_message
@@ -1623,5 +1622,6 @@ styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
 xml file_provider_paths
+xml gma_ad_services_config
 xml image_share_filepaths
 xml rn_dev_preferences
